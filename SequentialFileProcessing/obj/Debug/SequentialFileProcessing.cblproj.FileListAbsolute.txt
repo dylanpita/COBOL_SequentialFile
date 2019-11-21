@@ -1,0 +1,8 @@
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\bin\Debug\SequentialFileProcessing.exe
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\bin\Debug\SequentialFileProcessing.pdb
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\bin\Debug\SequentialFileProcessing.SequentialFileProcessing_Program1.idy
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\obj\Debug\SequentialFileProcessing.cblprojAssemblyReference.cache
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\obj\Debug\SequentialFileProcessing.cblproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\obj\Debug\SequentialFileProcessing.SequentialFileProcessing_Program1.idy
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\obj\Debug\SequentialFileProcessing.exe
+C:\Users\dylan\Desktop\COBOL\SequentialFileProcessing\SequentialFileProcessing\obj\Debug\SequentialFileProcessing.pdb
